@@ -1,4 +1,4 @@
-# tinynetworklibdemo
+# Tiny-Network-Lib-Demo
 
 Demo lib & app for network requests.
 
